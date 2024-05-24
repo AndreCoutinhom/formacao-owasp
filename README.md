@@ -1,4 +1,4 @@
-
+![image](https://github.com/AndreCoutinhom/formacao-owasp/assets/91290799/7adf0b3f-7197-4242-b45e-1094b0c4a38b)
 
 # Formação: Segurança de software com OWASP
 
